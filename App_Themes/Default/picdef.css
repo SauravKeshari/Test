@@ -1,0 +1,205 @@
+@charset "utf-8";
+/* CSS Document */
+
+.errorbox .illustra,.message .illustra{
+	height:28px;
+	width:28px;
+	background-position: 0px 0px;
+	margin-top: 2px;
+	position: relative;
+	left: -12px;
+	top: -4px;
+	z-index: 20;
+}
+.errorbox .illustra{
+background-position: -30px 0px;
+}
+
+
+.illustra{
+background-image: url(images/allicon.gif);
+}
+
+.delete{
+margin-left: 20px;
+ background-position: 0px -670px;
+
+}
+ .message .close{
+  background-position: 0px -300px;
+ }
+
+.plus{
+	background-position: 0px -60px;
+	
+}
+.recent{
+	background-position: 0px -380px;
+	
+}
+
+.close{
+ 	background-position: 0px -20px;
+	}
+.search{
+ 	background-position: 0px -40px;
+	}
+
+.add{
+	background-position: 0px -60px;
+}
+.recycle{
+	background-position: 0px -80px;
+}
+.ok{
+	background-position: 0px -945px;
+}
+.report{
+	background-position: 0px -120px;
+	background-repeat: no-repeat;
+}
+.edit{
+	background-position: 0px -140px;
+}
+.trash{
+  
+	background-position: 0px -160px;
+		
+	}
+
+.closeg{
+  
+	background-position: 0px -180px;
+		
+	}
+.movefolder{
+	background-position: 0px -240px;
+}
+
+.folder{
+	background-position: 0px -220px;
+
+}
+.up{
+	background-position: 0px -260px;
+}
+.down{
+	background-position: 0px -280px;
+}
+.printer{
+  background-position: 0px -320px;
+
+}
+.help{
+  background-position: 0px -340px;
+
+}
+.utility{
+
+background-position: 0px -361px;
+}
+
+.new_b{
+background-position: 0px -400px;
+}
+.new, .new_g{
+background-position: 0px -420px;
+}
+.dragdrop{
+background-position: 0px -440px;
+}
+.run{
+background-position: 0px -460px;
+}
+.stop{
+background-position: 0px -670px;
+}
+
+.selall{
+background-position: 0px -610px;
+margin-bottom: 6px;
+}
+.sel{
+background-position: 0px -630px;
+margin-bottom: 6px;
+}
+.desel{
+background-position: 0px -590px;
+margin-bottom: 6px;
+}
+.deselall{
+background-position: 0px -570px;
+margin-bottom: 6px;
+}
+.minus{
+background-position: 0px -650px;
+
+}
+.alert{
+background-position: 0px -520px;
+
+}
+.next{
+background-position: 0px -885px;
+}
+.privious{
+background-position: 0px -925px;
+}
+.first{
+ background-position: 0px -905px;
+}
+.last{
+ background-position: 0px -865px;
+}
+.export{
+	background-position: 0px -770px;
+
+}
+.down{
+	background-position: 0px -540px;
+
+}
+.up{
+	background-position: 0px -555px;
+
+}
+.calendar{
+	background-position: 0px -790px;
+
+}
+.button, .iconbar input, .but, .bar a, .iconlink a {
+	background-image: url(images/allbut.gif);
+	background-repeat: no-repeat;
+	height:15px;
+	margin-right: 4px;
+	border:none;
+	white-space:nowrap;
+	cursor:pointer;
+	
+}
+
+
+.bar a.empty{
+	padding-left: 1px;
+	background-image: none;
+	background-repeat: no-repeat;
+}
+.bar a.empty img {
+vertical-align:text-bottom;
+
+}
+
+.iconbar a img{
+width:15px;
+}
+
+.bar .line{
+	height:17px;
+	text-align: right;
+}
+
+.wait{
+	background-image: url(images/wait15.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
